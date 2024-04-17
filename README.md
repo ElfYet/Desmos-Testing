@@ -22,6 +22,19 @@ Download the code and open the project in your favorite Java IDE.
 ## Usage
 Once you have installed the necessary packages, simply run the ```testng.xml``` file.
 
+## What's Tested?
+This project was designed to test the functionality of several typical graphing calculator functions, including:
+- Simple arithmetic (*, /, +, and -)
+- Advanced arithmetic (Σ, and ∏)
+- Trigonometric functions (sin, cos, and tan)
+- Graphing
+
+It also tests Desmos exclusive functionality such as:
+- Image uploading
+- On-screen keyboard typing
+- Graph interaction
+- Setting manipulation
+
 ## License
 ### The MIT License (MIT)
 Copyright © 2024 ElfYet & jcub1011
