@@ -2,6 +2,19 @@
 Hello!
 This project is automated testing software written to test the online graphing calculator [Desmos](https://desmos.com/calculator).
 
+## What's Tested?
+This project was designed to test the functionality of several typical graphing calculator functions, including:
+- Simple arithmetic (*, /, +, and -)
+- Advanced arithmetic (Σ, and ∏)
+- Trigonometric functions (sin, cos, and tan)
+- Graphing
+
+It also tests Desmos exclusive functionality such as:
+- Image uploading
+- On-screen keyboard typing
+- Graph interaction
+- Setting manipulation
+
 ## Authors
 - [@ElfYet](https://github.com/ElfYet)
 - [@jcub1011](https://github.com/jcub1011)
@@ -21,19 +34,6 @@ Download the code and open the project in your favorite Java IDE.
 
 ## Usage
 Once you have installed the necessary packages, simply run the ```testng.xml``` file.
-
-## What's Tested?
-This project was designed to test the functionality of several typical graphing calculator functions, including:
-- Simple arithmetic (*, /, +, and -)
-- Advanced arithmetic (Σ, and ∏)
-- Trigonometric functions (sin, cos, and tan)
-- Graphing
-
-It also tests Desmos exclusive functionality such as:
-- Image uploading
-- On-screen keyboard typing
-- Graph interaction
-- Setting manipulation
 
 ## License
 ### The MIT License (MIT)
